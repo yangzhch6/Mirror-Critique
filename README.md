@@ -56,6 +56,12 @@ bash ./experiments/sft_critique/Qwern2.5-Math-{1.5/7}B-L.sh
 bash ./experiments/rlvr-verify/Qwen2.5-Math-{1.5/7}B-L-sft-ckpt-balance-bsz1k.sh
 ```
 
+## Evaluation
+The performance of test-time scaling can be evaluated with:
+```
+python ./test-time-eval.py
+```
+
 
 # Huggingface Models
 # DARS Models
