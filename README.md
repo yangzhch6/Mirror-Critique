@@ -64,7 +64,6 @@ python ./test-time-eval.py
 
 
 # Huggingface Models
-# DARS Models
 | **Model**                          | **Huggingface** |  **Base Model** |
 |-----------------------------------|------------------|------------------|
 | |
